@@ -3,9 +3,9 @@
 Free stack: **MongoDB Atlas (M0)** + **Render** (backend API) + **Netlify** (frontend).
 Layout used below (replace `yourdomain.com` with your actual domain):
 
-| Layer       | Service                 | URL                                  |
+| Layer       | Service                  | URL                                  |
 | ----------- | ------------------------ | ------------------------------------ |
-| Database    | MongoDB Atlas M0         | —                                     |
+| Database    | MongoDB Atlas M0         | your mongodb access key              |
 | Backend API | Render free web service  | `https://api.yourdomain.com`         |
 | Frontend    | Netlify (or Vercel)      | `https://yourdomain.com` (+ `www`)   |
 
